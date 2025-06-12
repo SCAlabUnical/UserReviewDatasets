@@ -24,11 +24,12 @@ The repository includes the following datasets:
 
 If you use the datasets or the methodology described in this paper, please cite it as follows:
 
+```bibtex
 @InProceedings{ecml-pkdd-marozzo-2025,
-      AUTHOR = {Belcastro, Loris and Cosentino, Cristian and Lio, Pietro and Marozzo, Fabrizio},
-      TITLE = {Balanced and Token-Efficient Summarization of User Reviews via Stratified Sampling and Large Language Models},
-      YEAR = {2025},
-      BOOKTITLE = {European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)}
+  author    = {Loris Belcastro and Cristian Cosentino and Pietro Lio and Fabrizio Marozzo},
+  title     = {Balanced and Token-Efficient Summarization of User Reviews via Stratified Sampling and Large Language Models},
+  booktitle = {Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)},
+  year      = {2025}
 }
 
 # Contact
