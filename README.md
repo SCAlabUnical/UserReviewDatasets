@@ -24,11 +24,11 @@ The repository includes the following datasets:
 
 If you use the datasets or the methodology described in this paper, please cite it as follows:
 
-@inproceedings{belcastro2024generating,
-  title={Generating Comprehensive and Balanced User Review Summaries with Large Language Models},
-  author={Belcastro, Loris and Cosentino, Cristian and Marozzo, Fabrizio},
-  booktitle={Under review},
-  year={2024}
+@InProceedings{ecml-pkdd-marozzo-2025,
+      AUTHOR = {Belcastro, Loris and Cosentino, Cristian and Lio, Pietro and Marozzo, Fabrizio},
+      TITLE = {Balanced and Token-Efficient Summarization of User Reviews via Stratified Sampling and Large Language Models},
+      YEAR = {2025},
+      BOOKTITLE = {European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)}
 }
 
 # Contact
