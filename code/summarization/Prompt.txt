@@ -1,0 +1,7 @@
+Product ($p):{monitored product}, Description ($d):{product description},
+
+Reviews ($R): [/*1st review*/ {Title ($tr):{title of the review }, Text ($t):{text of the review }, Sentiment ($s):{positive, neutral or negative}, Topics ($t):{main topics addressed}, Emotions ($e):{main emotions expressed}}, /*2nd review*/ {...}, ...]
+
+Input: A list of reviews $R for the product $p described in $d. Each review includes its title, full text, a sentiment label, the main topics addressed, and the primary emotions expressed.
+
+Task: Generate a comprehensive and balanced report about the product that captures the essence of all the reviews by summarizing their key points and covering all significant aspects, while remaining concise. The report must be a single paragraph without line breaks or colons and should not exceed $N words.
