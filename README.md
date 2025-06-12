@@ -31,7 +31,7 @@ If you use the datasets or the methodology described in this paper, please cite 
   booktitle = {Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)},
   year      = {2025}
 }
+```
 
-## Contact
-
+# Contact
 For questions or feedback, please reach out to lbelcastro@dimes.unical.it, ccosentino@dimes.unical.it, or fmarozzo@dimes.unical.it.
