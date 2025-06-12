@@ -1,5 +1,5 @@
 This repository contains datasets used in the paper: 
-**"Generating Comprehensive and Balanced User Review Summaries with Large Language Models"** by Loris Belcastro, Cristian Cosentino, and Fabrizio Marozzo from the DIMES Department, University of Calabria.
+**"Balanced and Token-Efficient Summarization of User Reviews via Stratified Sampling and Large Language Models"**.
 
 # Overview
 
