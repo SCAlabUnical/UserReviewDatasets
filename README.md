@@ -30,7 +30,8 @@ If you use the datasets or the methodology described in this paper, please cite 
   title     = {Balanced and Token-Efficient Summarization of User Reviews via Stratified Sampling and Large Language Models},
   booktitle = {Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)},
   year      = {2025}
-}
+}```
+
 
 # Contact
 
